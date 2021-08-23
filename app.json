@@ -1,0 +1,14 @@
+{
+    "name": "App",
+    "description": "Deploy app on Heroku.",
+    "keywords": [
+        ""
+    ],
+    "env": {
+        "email": {
+            "description": "email",
+            "value": ""
+        }
+    },
+    "stack": "container"
+}
